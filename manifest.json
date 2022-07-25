@@ -1,0 +1,10 @@
+{
+  "id": "se.ninjasmurf.craft.ninja-sort",
+  "name": "Ninja Sort",
+  "fileName": "craft-ninja-sort",
+  "author" : "Ninjasmurf",
+  "author-email" : "henrik™ninjasmurf.se",
+  "description" : "Tools for sorting stuff in Craft",
+  "api": "0.0.4",
+  "main": "index.html"
+}

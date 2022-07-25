@@ -1,0 +1,33 @@
+{
+  "name": "typescript-extension",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack serve --mode=development"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@craftdocs/craft-extension-api": "*",
+    "@craftdocs/craft-extension-api-sdk": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "copy-webpack-plugin": "*",
+    "css-loader": "*",
+    "html-webpack-plugin": "*",
+    "react-dev-utils": "*",
+    "style-loader": "*",
+    "ts-loader": "*",
+    "typescript": "*",
+    "url-loader": "*",
+    "webpack": "*",
+    "webpack-cli": "*",
+    "webpack-dev-server": "*",
+    "zip-webpack-plugin": "*",
+  },
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+  }
+}
