@@ -24,10 +24,10 @@
     "webpack": "*",
     "webpack-cli": "*",
     "webpack-dev-server": "*",
-    "zip-webpack-plugin": "*",
+    "zip-webpack-plugin": "*"
   },
   "dependencies": {
     "react": "*",
-    "react-dom": "*",
+    "react-dom": "*"
   }
 }
