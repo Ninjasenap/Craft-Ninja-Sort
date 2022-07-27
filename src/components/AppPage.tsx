@@ -38,10 +38,10 @@ export default class AppPage extends React.Component {
                         <i>Preserves location</i>
                     </button>
 
-                    {/* <button className="btn execute-btn" onClick={() => { this.handleSortDecendingButtonClick() }}>
+                    <button className="btn execute-btn" onClick={() => { this.handleSortDecendingButtonClick() }}>
                         <b>Descending</b><br />
                         <i>Preserves location</i>
-                    </button> */}
+                    </button>
 
                     {/* <button className="btn execute-btn">Into Bullet List</button> */}
                     {/* <button className="btn execute-btn">Into Numbered List</button> */}
