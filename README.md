@@ -4,7 +4,7 @@
 ![Start](https://user-images.githubusercontent.com/38010876/181313580-34ab686c-6d8e-43a2-a1a8-5bb40efbadf5.png)
 ![](https://user-images.githubusercontent.com/38010876/181310271-f37099f4-8112-40f9-9982-42e13c161126.png)
 
-v0.1.0 Sort blocks alphabetically and in reverse order.
+v0.1.0 Sort blocks alphabetically and in reverse order. [download](https://github.com/ninja-smurf/Craft-Ninja-Sort/releases/download/v0.1.0/craft-ninja-sort.craftx)
 
 ## Sort ascending and descending (preserv locations)
 ![Sort asc](https://user-images.githubusercontent.com/38010876/181313280-fdb741e8-3096-4948-8ca6-63238d43e873.png)
@@ -19,7 +19,7 @@ If selection is split apart the locations will be kept.
 
 ## Installation
 
-Download the craftX-file and follow the isntructions at https://documentation.developer.craft.do/extensions/getting-started.
+Download the [craftX-file from here](https://github.com/ninja-smurf/Craft-Ninja-Sort/releases/download/v0.1.0/craft-ninja-sort.craftx) and follow the instructions at [the Craft Developer site](https://documentation.developer.craft.do/extensions/getting-started).
 
 
 ## Building
