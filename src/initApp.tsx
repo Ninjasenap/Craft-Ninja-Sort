@@ -71,5 +71,5 @@ export class Def {
 
 export class Settings {
 	static DEBUG = true;
-	static Locale = Def.LOCALE.SWEDISH;
+	static Locale = Def.LOCALE.ENGLISH;
 }

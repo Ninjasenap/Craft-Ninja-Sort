@@ -46,6 +46,7 @@ export default class AppPage extends React.Component {
                     {/* <button className="btn execute-btn">Into Bullet List</button> */}
                     {/* <button className="btn execute-btn">Into Numbered List</button> */}
                     {/* <button className="btn execute-btn">! Sort table !</button> */}
+                    {/* Set locale */}
                 </div>
 
             </>
